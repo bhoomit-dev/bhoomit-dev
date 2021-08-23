@@ -3,7 +3,7 @@
 
 <div align="left" inline>
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=bhoomit-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Bhoomit" /> </span>
-<span align="left"> <a href="https://twitter.com/bhoomit-dev" target="blank"><img src="https://img.shields.io/twitter/follow/bhoomit-dev?logo=twitter&style=for-the-badge" alt="Bhoomit" /></a> </span>
+<span align="left"> <a href="https://twitter.com/bhumit070" target="blank"><img src="https://img.shields.io/twitter/follow/bhoomit-dev?logo=twitter&style=for-the-badge" alt="Bhoomit" /></a> </span>
 </div>
 
 ### My GitHub Stats
